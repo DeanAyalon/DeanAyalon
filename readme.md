@@ -1,5 +1,10 @@
-# 👋 Hi!
-I'm [Dean Ayalon](https://deanayalon.com), a software developer from Israel.<br>
+<div align="center">
+    <h1>👋 Hi there!</h1>
+    <h2>I'm Dean, welcome to my profile :)</h2>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Fullstack+Developer;Ethical+Hacker;Math+Nerd&center=true)](https://github.com/DeanAyalon)
+
+</div>
 
 ## About me
 I love math, philosophy, fiction and basically any type of science, learning is awesome and I never wish to stop!
