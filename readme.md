@@ -2,8 +2,9 @@
 I'm [Dean Ayalon](https://deanayalon.com), a software developer from Israel.<br>
 
 ## About me
-I love math, philosophy, fiction and basically any type of science, learning is awesome and I never wish to stop!<br>
-Though my deteriorating eyesight has made it a struggle, I still try to read as much as I can, with my favorite genres being psychological horror and complex mysteries. I absolutely loved Think of a Number by John Verdon and its sequels, got any similar suggestions for me?
+I love math, philosophy, fiction and basically any type of science, learning is awesome and I never wish to stop!
+
+Though my deteriorating eyesight has made it a struggle, I still try to read as much as I can, with my favorite genres being psychological/phylosophical horror and complex mysteries. I absolutely loved **Think of a Number by John Verdon** and its sequels, got any similar suggestions for me?
 
 ## Development
 I lean toward backend, but can manage the whole stack.<br>
@@ -34,7 +35,7 @@ Today, I'm working part-time for one of my clients, releasing new features, upgr
 Feel free to contact me for any reason, including:
 - Instructions, explanations and help
 - Code recommendations and feature requests
-- Hiring - As of the current commit, I am looking for a job!
+- Hiring - As of the current commit, I am [looking for a job](./files/Resumé.pdf)!
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://deanayalon.com/linkedin)
