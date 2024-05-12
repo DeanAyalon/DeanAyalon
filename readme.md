@@ -29,12 +29,15 @@ Most my works were based on [Claris FileMaker](https://www.claris.com/filemaker/
 Being the sole developer, I was responsible for client communications, system design, graphics, development, networking, security, upkeep, server management, and tech support.<br>
 It was a lot, and I'm glad for it!
 
+In the army, medical complications have prevented my assignment to a cyber unit, and so I was sent to manage the networks and IT repairs for the Gaza division of the IDF. During my service I have undergone a network administration course and received a Windows technician's certificate (which I need to find 😅).
+
 Today, I'm working part-time for one of my clients, releasing new features, upgrading their servers, managing their networks, securing vulnerabilities - Definitely still developing software, but doing a whole lot more around it.
 
 ## Contact Me!
 Feel free to contact me for any reason, including:
 - Instructions, explanations and help
 - Code recommendations and feature requests
+- Collaborations - **Invite me to your projects**, I'm constantly looking for something new to work on :)
 - Hiring - As of the current commit, I am [looking for a job](./files/Resumé.pdf)!
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
@@ -48,6 +51,7 @@ Feel free to contact me for any reason, including:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Backend
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -68,6 +72,7 @@ Feel free to contact me for any reason, including:
 ### Low-Code
 [![FileMaker Pro](https://img.shields.io/badge/claris-FileMaker_Pro-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
 [![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) 
+![Wix](https://img.shields.io/badge/wix-black.svg?style=for-the-badge&logo=wix&logoColor=white)
 
 ### Coding
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeanAyalon)
@@ -86,7 +91,7 @@ Feel free to contact me for any reason, including:
 ### Services
 [![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://npmjs.com)
 
-And more, unlisted for the mystery ;)
+#### And more, unlisted for the mystery ;)
 
 ## Currently Learning
 [![Kubernetes](https://img.shields.io/badge/kubernetes-white.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://npmjs.com)
