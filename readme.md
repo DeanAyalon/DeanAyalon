@@ -104,3 +104,6 @@ Feel free to contact me for any reason, including:
 
 [![React](https://img.shields.io/badge/react-23272f.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://npmjs.com)
 [![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://npmjs.com)
+
+## Thanks
+[evab](https://github.com/eranbraun) - For continuous guidanceand support despite my constant nagging
