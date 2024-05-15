@@ -43,7 +43,7 @@ Feel free to contact me for any reason, including:
 - Instructions, explanations and help
 - Code recommendations and feature requests
 - Collaborations - **Invite me to your projects**, I'm constantly looking for something new to work on :)
-- Hiring - As of the current commit, I am [looking for a job](./files/Resumé.pdf)!
+- Hiring - As of the current commit, I am [looking for a job](https://deanayalon.com/resume)!
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://deanayalon.com/linkedin)
