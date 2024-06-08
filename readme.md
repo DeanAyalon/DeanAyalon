@@ -9,7 +9,8 @@
 ## About me
 I love math, philosophy, fiction and basically any type of science, learning is awesome and I never wish to stop!
 
-Though my deteriorating eyesight has made it a struggle, I still try to read as much as I can, with my favorite genres being psychological/phylosophical horror and complex mysteries. I absolutely loved **Think of a Number by John Verdon** and its sequels, got any similar suggestions for me?
+Though my deteriorating eyesight has made it a struggle, I still try to read as much as I can, with my favorite genres being psychological/philosophical horror and complex mysteries.<br>
+I absolutely loved **Think of a Number by John Verdon** and its sequels, got any similar suggestions for me?
 
 ## Development
 I lean toward backend, but can manage the whole stack.<br>
@@ -88,11 +89,11 @@ Feel free to contact me for any reason, including:
 ### CI/CD
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DeanAyalon/verdaccio/pkgs/container/verdaccio)
 [![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/DeanAyalon/verdaccio/actions)
+[![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-120e6d.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
 
 ### Code Security
 [![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-465b86.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
 [![Snyk](https://img.shields.io/badge/Snyk-c5c6c7.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)](https://snyk.io)
-
 
 ### Utilities
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
@@ -110,9 +111,11 @@ Feel free to contact me for any reason, including:
 [![React](https://img.shields.io/badge/react-23272f.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://npmjs.com)
 [![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://npmjs.com)
 
+- Test Driven Design
+
 ## Certifications
 [<img src="./images/fmp-specialist.png" height=100 />](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
-[<img src="./images/fms-associate.png" height=100 />](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204)
+[<img src="./images/fms-associate.png" height=100 />](https://www.credly.com/badges/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204)
 
 ## Thanks
 [evab](https://github.com/eranbraun) - For continuous guidanceand support through my constant nagging
