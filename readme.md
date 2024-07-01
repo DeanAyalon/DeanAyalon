@@ -90,6 +90,7 @@ Feel free to contact me for any reason, including:
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DeanAyalon/verdaccio/pkgs/container/verdaccio)
 [![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/DeanAyalon/verdaccio/actions)
 [![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
+[![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-black.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 
 ### Code Security
 [![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-465b86.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
