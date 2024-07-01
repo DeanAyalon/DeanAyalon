@@ -83,6 +83,7 @@ Feel free to contact me for any reason, including:
 ### Coding
 [![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeanAyalon)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
+[![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-23232c.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 
 [![VSCode](https://img.shields.io/badge/vscode-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/DeanAyalon)
 
@@ -90,10 +91,9 @@ Feel free to contact me for any reason, including:
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DeanAyalon/verdaccio/pkgs/container/verdaccio)
 [![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/DeanAyalon/verdaccio/actions)
 [![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
-[![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-black.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 
 ### Code Security
-[![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-465b86.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
+[![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
 [![Snyk](https://img.shields.io/badge/Snyk-c5c6c7.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)](https://snyk.io)
 
 ### Utilities
@@ -115,8 +115,8 @@ Feel free to contact me for any reason, including:
 - Test Driven Design
 
 ## Certifications
-[<img src="./images/fmp-specialist.png" height=100 />](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
-[<img src="./images/fms-associate.png" height=100 />](https://www.credly.com/badges/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204)
+[<img alt="FileMaker Pro Expert" src="./images/fmp-expert.png" height=100 />](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
+[<img alt="FileMaker Server Associate" src="./images/fms-associate.png" height=100 />](https://www.credly.com/badges/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204)
 
 ## Thanks
 [evab](https://github.com/eranbraun) - For continuous guidanceand support through my constant nagging
