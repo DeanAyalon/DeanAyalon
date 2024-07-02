@@ -88,13 +88,18 @@ Feel free to contact me for any reason, including:
 [![VSCode](https://img.shields.io/badge/vscode-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/DeanAyalon)
 
 ### DevOps
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DeanAyalon/verdaccio/pkgs/container/verdaccio)
-[![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/DeanAyalon/verdaccio/actions)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DeanAyalon/verdaccio/pkgs/container/verdaccio)<br>
 [![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
+[![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black)](https://github.com/DeanAyalon/verdaccio/actions)
 
 ### Code Security
 [![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
 [![Snyk](https://img.shields.io/badge/Snyk-c5c6c7.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)](https://snyk.io)
+
+### Graphic Design
+[![Adobe PhotoShop](https://img.shields.io/badge/PhotoShop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=001e36)](https://photoshop.com)
+[![Adobe Illustrator](https://img.shields.io/badge/illustrator-ff9a00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=001e36)](https://adobe.com/products/illustrator)
+
 
 ### Utilities
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
