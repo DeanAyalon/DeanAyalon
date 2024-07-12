@@ -85,16 +85,18 @@ Feel free to contact me for any reason, including:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
 [![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-23232c.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 
-[![VSCode](https://img.shields.io/badge/vscode-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/DeanAyalon)
+[![VSCode](https://img.shields.io/badge/vscode-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/simple-icons/simple-icons/pull/10019)
 
 ### DevOps
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/DeanAyalon/verdaccio/pkgs/container/verdaccio)<br>
+[![Docker](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/deanayalon)
 [![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
 [![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black)](https://github.com/DeanAyalon/verdaccio/actions)
 
 ### Code Security
 [![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
 [![Snyk](https://img.shields.io/badge/Snyk-c5c6c7.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)](https://snyk.io)
+[![Docker Scout](https://custom-icon-badges.demolab.com/badge/docker%20scout-376a5f.svg?style=for-the-badge&logo=docker-scout&logoColor=white)](https://www.docker.com/products/docker-scout/)
+
 
 ### Graphic Design
 [![Adobe PhotoShop](https://img.shields.io/badge/PhotoShop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=001e36)](https://photoshop.com)
