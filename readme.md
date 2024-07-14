@@ -55,7 +55,7 @@ Feel free to contact me for any reason, including:
 ## Technologies Used:
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)](https://github.com/simple-icons/simple-icons/pull/10019)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -70,14 +70,14 @@ Feel free to contact me for any reason, including:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/angular-c3002f.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Wix Velo](https://img.shields.io/badge/velo-0C6EFC.svg?style=for-the-badge&logo=wix&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-c3002f.svg?style=for-the-badge&logo=angular&logoColor=white)<br>
+[![Wix Velo](https://custom-icon-badges.demolab.com/badge/velo-by%20wix-black.svg?style=for-the-badge&logo=velo&labelColor=0C6EFC)](https://wix.com)
 
 ![SCSS](https://img.shields.io/badge/sass%2Fscss-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Low-Code
 [![FileMaker Pro](https://img.shields.io/badge/claris-FileMaker_Pro-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
-[![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) 
+[![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) <br>
 ![Wix](https://img.shields.io/badge/wix-black.svg?style=for-the-badge&logo=wix&logoColor=white)
 
 ### Coding
@@ -87,10 +87,12 @@ Feel free to contact me for any reason, including:
 
 [![VSCode](https://img.shields.io/badge/vscode-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/simple-icons/simple-icons/pull/10019)
 
+[![Git LFS](https://img.shields.io/badge/git%20lfs-white.svg?style=for-the-badge&logo=git-lfs&logoColor=F05032)](https://git-lfs.com)
+
 ### DevOps
 [![Docker](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/deanayalon)
 [![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
-[![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black)](https://github.com/DeanAyalon/verdaccio/actions)
+![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black)
 
 ### Code Security
 [![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
