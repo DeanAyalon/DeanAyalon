@@ -46,80 +46,80 @@ Feel free to contact me for any reason, including:
 - Collaborations - **Invite me to your projects**, I'm constantly looking for something new to work on :)
 - Hiring - As of the current commit, I am [looking for a job](https://deanayalon.com/resume)!
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://deanayalon.com/linkedin)
+[![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://deanayalon.com/linkedin)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://deanayalon.com/whatsapp)
 [![Email](https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:dev@deanayalon.com) 
-[![Call Me](https://custom-icon-badges.demolab.com/badge/Call_Me-blue.svg?logo=phone&logoColor=white&style=for-the-badge)](tel:+972549009763)
+[![Call Me](https://custom-icon-badges.demolab.com/badge/Call_Me-blue?logo=phone&logoColor=white&style=for-the-badge)](tel:+972549009763)
 
 ## Technologies Used:
 ### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-[![C#](https://img.shields.io/badge/C%23-512BD4.svg?style=for-the-badge&logo=C%23&logoColor=white)](https://github.com/simple-icons/simple-icons/pull/10019)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white)](https://github.com/simple-icons/simple-icons/pull/10019)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell](https://img.shields.io/badge/shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.JS-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![FileMaker](https://img.shields.io/badge/claris-filemaker-black.svg?style=for-the-badge&logo=claris&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FileMaker](https://img.shields.io/badge/claris-filemaker-black?style=for-the-badge&logo=claris&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/angular-c3002f.svg?style=for-the-badge&logo=angular&logoColor=white)<br>
-[![Wix Velo](https://custom-icon-badges.demolab.com/badge/velo-by%20wix-black.svg?style=for-the-badge&logo=velo&labelColor=0C6EFC)](https://wix.com)
+![Angular](https://img.shields.io/badge/angular-c3002f?style=for-the-badge&logo=angular&logoColor=white)<br>
+[![Wix Velo](https://custom-icon-badges.demolab.com/badge/velo-by%20wix-black?style=for-the-badge&logo=velo&labelColor=0C6EFC)](https://wix.com)
 
-![SCSS](https://img.shields.io/badge/sass%2Fscss-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![SCSS](https://img.shields.io/badge/sass%2Fscss-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Low-Code
-[![FileMaker Pro](https://img.shields.io/badge/claris-FileMaker_Pro-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
-[![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black.svg?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) <br>
-![Wix](https://img.shields.io/badge/wix-black.svg?style=for-the-badge&logo=wix&logoColor=white)
+[![FileMaker Pro](https://img.shields.io/badge/claris-FileMaker_Pro-black?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
+[![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) <br>
+![Wix](https://img.shields.io/badge/wix-black?style=for-the-badge&logo=wix&logoColor=white)
 
 ### Coding
-[![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeanAyalon)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
-[![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-23232c.svg?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeanAyalon)
+[![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
+[![OneDev](https://custom-icon-badges.demolab.com/badge/OneDev-23232c?style=for-the-badge&logo=onedev&logoColor=white)](https://onedev.io)
 
-[![VSCode](https://img.shields.io/badge/vscode-white.svg?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/simple-icons/simple-icons/pull/10019)
+[![VSCode](https://img.shields.io/badge/vscode-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/simple-icons/simple-icons/pull/10019)
 
-[![Git LFS](https://img.shields.io/badge/git%20lfs-white.svg?style=for-the-badge&logo=git-lfs&logoColor=F05032)](https://git-lfs.com)
+[![Git LFS](https://img.shields.io/badge/git%20lfs-white?style=for-the-badge&logo=git-lfs&logoColor=F05032)](https://git-lfs.com)
 
 ### DevOps
-[![Docker](https://img.shields.io/badge/docker-1D63ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/deanayalon)
-[![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632.svg?style=for-the-badge&logo=devin.fm)](https://devin.fm)
-![GitHub Actions](https://img.shields.io/badge/github-actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black)
+[![Docker](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/repositories/deanayalon)
+[![Devin.fm](https://custom-icon-badges.demolab.com/badge/devin.fm-232632?style=for-the-badge&logo=devin.fm)](https://devin.fm)
+![GitHub Actions](https://img.shields.io/badge/github-actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=black)
 
 ### Code Security
-[![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white.svg?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
-[![Snyk](https://img.shields.io/badge/Snyk-c5c6c7.svg?style=for-the-badge&logo=snyk&logoColor=4C4A73)](https://snyk.io)
-[![Docker Scout](https://custom-icon-badges.demolab.com/badge/docker%20scout-376a5f.svg?style=for-the-badge&logo=docker-scout&logoColor=white)](https://www.docker.com/products/docker-scout/)
+[![GitGuardian](https://custom-icon-badges.demolab.com/badge/gitguardian-white?style=for-the-badge&logo=gitguardian&logoColor=081736)](https://gitguardian.com)
+[![Snyk](https://img.shields.io/badge/Snyk-c5c6c7?style=for-the-badge&logo=snyk&logoColor=4C4A73)](https://snyk.io)
+[![Docker Scout](https://custom-icon-badges.demolab.com/badge/docker%20scout-376a5f?style=for-the-badge&logo=docker-scout&logoColor=white)](https://www.docker.com/products/docker-scout/)
 
 
 ### Graphic Design
-[![Adobe PhotoShop](https://img.shields.io/badge/PhotoShop-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=001e36)](https://photoshop.com)
-[![Adobe Illustrator](https://img.shields.io/badge/illustrator-ff9a00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=001e36)](https://adobe.com/products/illustrator)
+[![Adobe PhotoShop](https://img.shields.io/badge/PhotoShop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=001e36)](https://photoshop.com)
+[![Adobe Illustrator](https://img.shields.io/badge/illustrator-ff9a00?style=for-the-badge&logo=adobe-illustrator&logoColor=001e36)](https://adobe.com/products/illustrator)
 
 
 ### Utilities
-[![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
-[![Verdaccio](https://img.shields.io/badge/Verdaccio-4B5E40.svg?style=for-the-badge&logo=verdaccio&logoColor=white)](https://npmjs.com)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://npmjs.com)
+[![Verdaccio](https://img.shields.io/badge/Verdaccio-4B5E40?style=for-the-badge&logo=verdaccio&logoColor=white)](https://npmjs.com)
 
 ### Services
-[![Nginx](https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://npmjs.com)
+[![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://npmjs.com)
 
 #### And more, unlisted for the mystery ;)
 
 ## Currently Learning
-[![Kubernetes](https://img.shields.io/badge/kubernetes-white.svg?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://npmjs.com)
-[![Jenkins](https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://npmjs.com)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=326CE5)](https://npmjs.com)
+[![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://npmjs.com)
 
-[![React](https://img.shields.io/badge/react-23272f.svg?style=for-the-badge&logo=react&logoColor=61DAFB)](https://npmjs.com)
-[![Next.js](https://img.shields.io/badge/next.js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://npmjs.com)
+[![React](https://img.shields.io/badge/react-23272f?style=for-the-badge&logo=react&logoColor=61DAFB)](https://npmjs.com)
+[![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](https://npmjs.com)
 
 - Test Driven Design
 
