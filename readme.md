@@ -54,7 +54,8 @@ Feel free to contact me for any reason, including:
 
 ## Technologies Used:
 ### Languages
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 [![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=C%23&logoColor=white)](https://github.com/simple-icons/simple-icons/pull/10019)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell](https://img.shields.io/badge/shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -78,7 +79,7 @@ Feel free to contact me for any reason, including:
 ### Low-Code
 [![FileMaker Pro](https://img.shields.io/badge/claris-FileMaker_Pro-black?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
 [![FileMaker Server](https://img.shields.io/badge/claris-FileMaker_Server-black?style=for-the-badge&logo=claris&logoColor=white)](https://www.credly.com/earner/earned/badge/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204) <br>
-![Wix](https://img.shields.io/badge/wix-black?style=for-the-badge&logo=wix&logoColor=white)
+[![Wix](https://img.shields.io/badge/wix-black?style=for-the-badge&logo=wix&logoColor=white)](https://wix.com)
 
 ### Coding
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/DeanAyalon)
@@ -128,4 +129,4 @@ Feel free to contact me for any reason, including:
 [<img alt="FileMaker Server Associate" src="./images/fms-associate.png" height=100 />](https://www.credly.com/badges/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204)
 
 ## Thanks
-[evab](https://github.com/eranbraun) - For continuous guidanceand support through my constant nagging
+[![evab](https://custom-icon-badges.demolab.com/badge/evab-F0F0F0?style=for-the-badge&logo=evab-identicon&logoColor=94d669)](https://github.com/evab) For continuous guidanceand support through my constant nagging
