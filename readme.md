@@ -23,7 +23,7 @@ As someone who worked with low-code systems for quite a few years:
 - Low-Code development is still software development! It can be just as complex, and when working around restricted systems, even tougher.
 - I'm no "mere developer", with experience in both low-code frameworks and traditional pro-code, I can say I'm a strong **All-Rounder!**
 
-I have experience with software development, web hosting, network management, software and (a bit of) hardware repairs, and cyber-security.<br>
+I have experience with software development, web hosting, network management, software, and a bit of hardware repairs and cyber-security.<br>
 Whatever you're working on, I may be able to join, or at least, I can promise to catch up **rapidly**.
 
 ## Career
