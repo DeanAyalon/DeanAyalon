@@ -45,11 +45,11 @@ Feel free to contact me for any reason, including:
 - Instructions, explanations and help
 - Code recommendations and feature requests
 - Collaborations - **Invite me to your projects**, I'm constantly looking for something new to work on :)
-- Hiring - As of the current commit, I am [looking for a job](https://deanayalon.com/resume)!
+- Hiring - As of the current commit, I am [looking for a job](https://github.com/deanayalon/deanayalon/tree/main/files/Resumé.pdf)!
 
 [![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeanAyalon)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://deanayalon.com/linkedin)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://deanayalon.com/whatsapp)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deanayalon)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/972549009763)
 [![Email](https://img.shields.io/badge/Email-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:dev@deanayalon.com) 
 [![Call Me](https://custom-icon-badges.demolab.com/badge/Call_Me-blue?logo=phone&logoColor=white&style=for-the-badge)](tel:+972549009763)
 
@@ -75,4 +75,4 @@ Feel free to contact me for any reason, including:
 [<img alt="FileMaker Server Associate" src="./images/fms-associate.png" height=100 />](https://www.credly.com/badges/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204)
 
 ## Thanks
-[![evab](https://custom-icon-badges.demolab.com/badge/evab-F0F0F0?style=for-the-badge&logo=evab-identicon&logoColor=94d669)](https://github.com/eranbraun) For continuous guidanceand support through my constant nagging
+- [evab](https://github.com/eranbraun) For continuous guidance and support through my constant nagging
