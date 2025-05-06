@@ -72,7 +72,7 @@ Feel free to contact me for any reason, including:
 
 ## Certifications
 [<img alt="FileMaker Pro Expert" src="./images/fmp-expert.png" height=100 />](https://www.credly.com/badges/b7a53493-ce4f-45b5-871a-a220b8f6f166)
-[<img alt="FileMaker Server Associate" src="./images/fms-associate.png" height=100 />](https://www.credly.com/badges/bbdd64a9-b1e0-48ac-9ab0-bbfb4d737204)
+[<img alt="FileMaker Server Specialist" src="./images/fms-specialist.png" height=100 />](https://www.credly.com/badges/5ea0702d-7288-4d8e-b842-105388be6931)
 
 ## Thanks
 - [evab](https://github.com/eranbraun) For continuous guidance and support through my constant nagging
